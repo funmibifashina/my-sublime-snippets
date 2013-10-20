@@ -9,16 +9,23 @@ Save the snippet files in **Packages/User**. You can locate your Packages direct
 
 Usage
 -----
-Snippets save you from tedious typing. They are templates of frequently-used text that autocomplete for you. To use a snippet, type the **Trigger** text, then hit **TAB** to insert the snippet. Then continue hitting **TAB** to cycle through all the available fields.
+Snippets save you from tedious typing. To use a snippet, type the **Trigger** text, followed by **Tab** to insert the snippet. Continue hitting **Tab** to cycle through all the available fields.
 
 
 The Snippets
 ------------
+Here is a list of all the available **Triggers**. The underscores in the snippet represent fields.
 
-The underscores in the result represent fields. You can cycle through them by hitting **TAB**
+### JavaScript, jQuery
 
-### JavaScript
+#### log 
+```javascript
+console.log("__" + __);
+```
 
-| Name            | Trigger       | Result                |
-| --------------- | ------------- | --------------------- |
-| `console.log()` | log           | `console.log("___" + ___);` |
+#### post
+```javascript
+$.post("__", function(__, __){
+__
+});
+```
