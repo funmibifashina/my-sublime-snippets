@@ -16,14 +16,28 @@ The Snippets
 ------------
 Here is a list of all the available **Triggers**. The underscores in the snippet represent fields.
 
-### JavaScript, jQuery
+### JavaScript
 
-#### log 
+#### log
 ```javascript
 console.log("__" + __);
 ```
 
-#### post
+### jQuery
+
+#### &#35;
+```javascript
+$("#__").
+```
+
+#### each 
+```javascript
+$.each(__, function(__, __) {
+  __
+})
+```
+
+#### post 
 ```javascript
 $.post("__", function(__, __){
 __
