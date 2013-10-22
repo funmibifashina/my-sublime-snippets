@@ -18,6 +18,11 @@ Here is a list of all the available **Triggers**. The underscores in the snippet
 
 ### JavaScript
 
+#### con
+```javascript
+console.log("__" + __);
+```
+
 #### log
 ```javascript
 console.log("__" + __);
