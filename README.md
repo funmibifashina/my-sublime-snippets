@@ -35,6 +35,11 @@ console.log("__" + __);
 $("#__").
 ```
 
+#### append 
+```javascript
+append("__");
+```
+
 #### each 
 ```javascript
 $.each(__, function(__, __) {

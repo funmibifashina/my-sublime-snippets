@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+append("${1:}");
+]]></content>
+  <tabTrigger>app</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
