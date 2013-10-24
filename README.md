@@ -20,7 +20,7 @@ Here is a list of all the available **Triggers**. The underscores in the snippet
 
 #### cons
 ```javascript
-console.log("__" + __);
+console.log(__);
 ```
 
 #### log
