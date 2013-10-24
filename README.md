@@ -18,7 +18,7 @@ Here is a list of all the available **Triggers**. The underscores in the snippet
 
 ### JavaScript
 
-#### con
+#### cons
 ```javascript
 console.log("__" + __);
 ```
@@ -35,9 +35,21 @@ console.log("__" + __);
 $("#__").
 ```
 
+#### .
+```javascript
+$(".__").
+```
+
 #### append 
 ```javascript
 append("__");
+```
+
+#### click 
+```javascript
+$.click(function() {
+  __
+})
 ```
 
 #### each 
