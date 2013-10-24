@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+\$("#${1:id}").after("${2:html}");]]></content>
+  <tabTrigger>after</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

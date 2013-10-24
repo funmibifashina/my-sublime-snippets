@@ -40,6 +40,11 @@ $("#__").
 $(".__").
 ```
 
+#### after 
+```javascript
+$("#__").after("__");
+```
+
 #### append 
 ```javascript
 append("__");
