@@ -59,6 +59,11 @@ $.each(__, function(__, __) {
 })
 ```
 
+#### parse 
+```javascript
+$.parseJSON(${1:variable});)
+```
+
 #### post 
 ```javascript
 $.post("__", function(__, __){
