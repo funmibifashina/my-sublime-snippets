@@ -25,7 +25,7 @@ console.log(__);
 
 #### log
 ```javascript
-console.log("__" + __);
+console.log(__);
 ```
 
 ### jQuery
