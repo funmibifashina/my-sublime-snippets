@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+submit(function(){
+  ${4:}
+})
+]]></content>
+  <tabTrigger>submit</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

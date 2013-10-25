@@ -75,3 +75,10 @@ $.post("__", function(__, __){
 __
 });
 ```
+
+#### submit 
+```javascript
+$.submit(function(){
+__
+});
+```
