@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[\$.parseJSON(${1:variable});]]></content>
+  <content><![CDATA[\$.parseJSON(${1:variable})]]></content>
   <tabTrigger>parse</tabTrigger>
   <scope>source.js</scope>
   <description>parseJSON</description>

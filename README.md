@@ -57,6 +57,13 @@ $.click(function() {
 })
 ```
 
+#### doc 
+```javascript
+$(document).ready(function(){
+  __
+})
+```
+
 #### each 
 ```javascript
 $.each(__, function(__, __) {
