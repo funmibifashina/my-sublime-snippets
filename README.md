@@ -64,6 +64,13 @@ $(document).ready(function(){
 })
 ```
 
+#### getj 
+```javascript
+$.getJSON("__", function(__){
+  __
+});
+```
+
 #### each 
 ```javascript
 $.each(__, function(__, __) {

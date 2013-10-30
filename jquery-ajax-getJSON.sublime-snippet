@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+\$.getJSON("${1:url}", function(${2:data}){
+  ${3:console.log(data);}
+});
+]]></content>
+  <tabTrigger>getj</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
